@@ -10,6 +10,8 @@ Desenvolvido como parte do processo de aprendizagem e pode ser expandido para in
 Este projeto é uma implementação básica e pode ser utilizado como ponto de partida para aprender mais sobre desenvolvimento web e manipulação de moedas.
 utilizei as feramentas 👇<p/>
 
+***Apresentação do Projeto*** => [Clique aqui](https://andrade-conversor-de-moedas-devclub.netlify.app) e confira a proposta do projeto.
+
 <p align="center">
   <img alt="CSS5" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="HTML5" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
